@@ -1,0 +1,20 @@
+# Day 2 - Visitor Table
+
+## Goal
+Create the Visitor table and its fields.
+
+## Completed
+- Created Visitor table
+- Added visitor details fields
+- Added Status choice field
+- Added Host reference field
+- Added Department reference field
+
+## Skills Learned
+- Tables
+- Field Types
+- Choice Fields
+- Reference Fields
+
+## Screenshot
+visitor_table.png
